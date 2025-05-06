@@ -1,3 +1,3 @@
 # ghtraining
 # Testing
-gh-training merge conflict - asishr
+gh-training merge conflict - asishr CONFLICT
