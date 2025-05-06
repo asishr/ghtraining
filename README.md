@@ -2,8 +2,7 @@
 # Testing
 gh-training merge conflict - asishr
 
+daniel_was_here
 added line
-
 gh-training merge conflict - DustinHCA
 This is my test line for the merge request
-
