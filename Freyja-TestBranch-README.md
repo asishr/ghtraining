@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Hellow World!!
+Hello World!!
 
-This is another edit
-=======
-Hellow World!!
->>>>>>> 60590035c28c72bcb218aee829d2871eb55e7886
+This is some more text
